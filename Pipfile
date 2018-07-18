@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+selenium = "*"
+pyvirtualdisplay = "*"
+"urllib3" = "*"
+requests = "*"
+"beautifulsoup4" = "*"
+lxml = "*"
+google-api-python-client = "*"
+nltk = "*"
+redis = "*"
+pillow = "*"
+"oauth2client" = "*"
+google-cloud = "*"
+image = "*"
+"f14eb1f" = {file = "http://effbot.org/media/downloads/Imaging-1.1.7.tar.gz"}
